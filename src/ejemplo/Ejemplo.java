@@ -5,6 +5,8 @@ public class Ejemplo {
 		System.out.println("Hola Mundo!!!");
 		String name = "Peter";
 		String surname = "Martin";
-		System.out.println("Usuario: " + name + surname);
+		System.out.println("User: " + name + surname);
+		String city = "Chicago";
+		System.out.println("City: " + city);
 	}
 }
